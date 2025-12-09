@@ -1,5 +1,5 @@
 <img width="2880" height="1472" alt="my phisshing email" src="https://github.com/user-attachments/assets/e31fe254-e4a0-4625-8da9-78ee1ab08bc2" />
-img width="1906" height="764" alt="Screenshot 2025-12-09 220737" src="https://github.com/user-attachments/assets/6b0254c5-1ba4-46ce-8fe1-efab4b9597db" />
+<img width="1906" height="764" alt="Screenshot 2025-12-09 220737" src="https://github.com/user-attachments/assets/6b0254c5-1ba4-46ce-8fe1-efab4b9597db" />
 # phishing-email-
 "Aspiring Cybersecurity Professional | Penetration Testing, SIEM, Incident Response | Actively building my portfolio"
 # Phishing Analysis Report: HR Payroll Impersonation
