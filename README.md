@@ -20,7 +20,7 @@ This report documents the analysis of a phishing attempt impersonating a corpora
 
 ## 3. Header Analysis (Methodology)
 *Note: As this analysis is based on a visual capture, raw headers were not processed. In a live incident response scenario, the following checks would be performed:*
-* **SPF/DKIM/DMARC:** Check for "Fail" or "Softfail" results indicating the sender is not authorized to send email on behalf of the domain.
+* **SPF/DKIM/DMARC:** Check for "Fail" or "Softfail" results indicating the sender is not authorized to send email on behalf of the domain. <zoho tool kit>
 * **Return-Path:** Verify if the Return-Path matches the Sender address.
 * **X-Originating-IP:** Geolocate the sender's IP address to check for reputation scores or unexpected geographic origins.
 
